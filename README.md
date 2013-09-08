@@ -1,6 +1,8 @@
 === Captain Genesis Theme ===
 
 
+DEMO:http://captain.codelikepirates.com/
+
 Captain is a pure blogging based theme for Wordpress [Genesis Framework ]. The theme is ideal for tech based blogs running the Genesis Framework.
 
 === Theme Features ===
@@ -24,4 +26,4 @@ Added Color Content Boxes and buttons.
 
 === Theme Support ===
 
-Please visit http://codelikepirates.com/captainwt/ for theme support.
+Please visit http://codelikepirates.com/captainfree/ for theme support.
